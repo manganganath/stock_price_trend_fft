@@ -1,1 +1,1 @@
-# fx_trend_fft
+# Stock price trend analysis using Fourier transform
